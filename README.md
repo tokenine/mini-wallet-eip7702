@@ -2,7 +2,7 @@
 
 <p align="center">
    <picture>
-      <img alt="logo" src="https://github.com/tokenine/mini-wallet-eip7702/blob/main/design.png" width="100%" height="400">
+      <img alt="logo" src="https://github.com/tokenine/mini-wallet-eip7702/blob/main/design.png" width="100%" height="600">
    </picture>
 </p>
 
