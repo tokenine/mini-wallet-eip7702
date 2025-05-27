@@ -6,6 +6,11 @@
    </picture>
 </p>
 
+> [!NOTE]  
+> **Disclaimer: Educational Only**  
+> This project is intended for learning and demonstration purposes only.  
+  The authors assume no responsibility for any damage or misuse that may occur from using this code in production environments.
+
 ## Overview
 
 The **Mini Wallet EIP7702** is a flexible, signature-based smart contract wallet designed for secure and gasless transactions. It leverages the power of **EIP-7702** to provide Web2-like, seamless off-chain approvals for both ETH and ERC-20 tokens, while maintaining robust security through OpenZeppelin libraries like **AccessControl**, **SafeERC20**, and **ECDSA**.
